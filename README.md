@@ -1,5 +1,5 @@
 # NW-Tools
-Small DOS tools to check the IPX protocal / NetWare client status.
+Small DOS tools to check the IPX protocol / NetWare client status.
 
 A collection of simple DOS programs to check the status of loaded IPX drivers and the NetWare client (NETX/VLM), mainly for use in batch files.
 
